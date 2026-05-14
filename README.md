@@ -1,4 +1,4 @@
-# Innovatech Chile - Frontend Application (Equipo Caltías) 🚀
+# Innovatech Chile - Frontend Application (Equipo Caltías) 🚀 
 
 [cite_start]Este repositorio contiene el componente de interfaz de usuario para el proyecto de gestión de Innovatech Chile, etapa 2[cite: 26]. [cite_start]La solución ha sido diseñada bajo principios DevOps para garantizar un despliegue ágil, seguro y escalable en la nube de AWS[cite: 12, 158].
 
